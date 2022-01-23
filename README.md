@@ -1,2 +1,4 @@
-# Covid_App
- 
+
+
+
+flutter run -d chrome --no-sound-null-safety --web-renderer html
